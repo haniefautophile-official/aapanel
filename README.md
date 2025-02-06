@@ -4,7 +4,7 @@
 Jika Anda ingin menjalankan aaPanel langsung dari terminal menggunakan Docker CLI, Anda bisa mengikuti perintah yang sudah saya berikan sebelumnya:
 
 <li>Langkah-langkah:</li>
-<li>Masuk ke appstore casaos, dan klik custom install lalu klik icon terminal di pojok kanan atas.</li>
+<li>Masuk ke appstore casaos, dan klik custom install lalu klik icon import di pojok kanan atas.</li>
 <li>Copy kode di bawah ini dan Jalankan aaPanel menggunakan Docker CLI, bukan docker compose, lalu klik submit.</li>
 
 ```bash
