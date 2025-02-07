@@ -8,7 +8,7 @@ Jika Anda ingin menjalankan aaPanel langsung dari terminal menggunakan Docker CL
 <li>Copy kode di bawah ini dan Jalankan aaPanel menggunakan Docker CLI, bukan docker compose, lalu klik submit.</li>
 
 ```bash
-docker run -d -p 8886:7800 -p 22:21 -p 443:443 -p 80:80 -p 889:888 -v ~/website_data:/www/wwwroot -v ~/mysql_data:/www/server/data -v ~/vhost:/www/server/panel/vhost aapanel/aapanel:lib
+docker run -d -p 8886:7800 -p 22:21 -p 443:443 -p 80:80 -p 889:888 -v ~/website_data:/www/wwwroot -v ~/mysql_data:/www/server/data -v ~/vhost:/www/server/panel/vhost aapanel/aapanel:lnmp
   ```
 <li>Akses aapanel di browser menggunakan alamat http://youripaddress:8886/⁠aapanel</li>
 
