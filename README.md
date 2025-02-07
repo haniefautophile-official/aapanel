@@ -1,11 +1,11 @@
-<p>Untuk aaPanel Docker Deployment di CasaOS, Anda bisa memilih untuk menggunakan Docker CLI.</p>
+<p>Untuk aaPanel Docker Deployment di CasaOS, Anda bisa memilih untuk menggunakan Docker Compose.</p>
 
-<li>Menggunakan Docker CLI (Command Line Interface)</li>
-Jika Anda ingin menjalankan aaPanel langsung dari terminal menggunakan Docker CLI, Anda bisa mengikuti perintah yang sudah saya berikan sebelumnya:
+<li>Menggunakan Docker Compose</li>
+Jika Anda ingin menjalankan aaPanel langsung dari terminal menggunakan Docker Compose, Anda bisa mengikuti perintah yang sudah saya berikan sebelumnya:
 
 <li>Langkah-langkah:</li>
 <li>Masuk ke appstore casaos, dan klik custom install lalu klik icon import di pojok kanan atas.</li>
-<li>Copy kode di bawah ini dan Jalankan aaPanel menggunakan Docker CLI, bukan docker compose, lalu klik submit.</li>
+<li>Copy kode di bawah ini dan Jalankan aaPanel menggunakan Docker Compose, bukan docker CLI, lalu klik submit.</li>
 
 ```bash
 version: '3.8'
